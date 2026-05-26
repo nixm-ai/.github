@@ -1,4 +1,4 @@
-# NIXM
+# nixm
 
    **two signals. one mind.**
 
